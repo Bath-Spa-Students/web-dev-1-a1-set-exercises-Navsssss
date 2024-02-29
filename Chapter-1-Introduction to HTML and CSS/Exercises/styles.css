@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(232, 176, 176); /*to set the background color of the site*/
+}
+h1{color: rgb(38, 166, 209); /*to set the color of the letters*/
+    border: 4px rgb(126, 193, 193) inset; /*borders to the whole sentence*/
+    text-align: center; /*align the text to a certain point*/
+    background-color: black; /* to set the background color of the only the sentence to a certain color*/
+    
+}
+h2{
+    color: rgb(88, 131, 219); /*to set the color of the letters*/
+    border: 5px rgb(34, 0, 255) solid;/*borders to the whole sentence*/
+    background-color: black;/* to set the background color of the only the sentence to a certain color*/
+    text-align: right;/*align the text to a certain point*/
+}
+h3{
+    border: 5px rgb(0, 191, 255) solid;/*borders to the whole sentence*/
+    color: rgb(255, 255, 255);/*to set the color of the letters*/
+    font-size: 30px;/*to change the size of the font*/
+    background-color: black;/* to set the background color of the only the sentence to a certain color*/
+    text-align: center;/*align the text to a certain point*/
+}
+
+p{
+    color: antiquewhite;/*to set the color of the letters*/
+    background-color: rgb(39, 35, 35);/* to set the background color of the only the sentence to a certain color*/
+    text-align: center;/*align the text to a certain point*/
+    font-size: 26px;/*to change the size of the font*/
+    border: 5px rgb(43, 226, 86) inset;/*borders to the whole sentence/paragraph*/
+}
+.image1
+{
+    float: left; /*to make the image float*/
+    width: 450px;/*width of the image*/
+    height: 300px;/*weight of the image*/
+    border: 6px black outset;/*borders to the whole image*/
+}
+
+.image2
+{
+    float: right;/*to make the image float*/
+    width: 350px;/*width of the image*/
+    height: 300px;/*height of the image*/
+    border: 6px rgb(0, 0, 0) outset;/*borders to the whole image*/
+}
+ul{
+    font-style: italic;/*to change the font*/
+    font-size: 26px;/*to change the size of the font*/
+    text-align: center;/*align the text to a certain point*/
+    background-color: chocolate;/* to set the background color of the only the sentence to a certain color*/
+    border: 5px black solid; /*borders to the whole points*/
+    color: aliceblue; /*to set the color of the letters*/
+}
+
+h5{font-size: larger;}
+
+ol{
+    font-style: italic;/*to change the font*/
+    font-size: 23px;/*to change the size of the font*/
+    text-align: left;/*align the text to a certain point*/
+    background-color: rgb(191, 51, 0);/* to set the background color of the only the sentence to a certain color*/
+    border: 5px black solid;/*borders to the whole points*/
+    color: rgb(255, 255, 255); /*to set the color of the letters*/
+}
+.image3{ 
+    float: right;/*height of the image*/
+    width: 325px;/*width of the image*/
+    height: 300px;/*height of the image*/
+    border: 6px rgb(0, 0, 0) outset; /*borders to the whole image*/
+}
