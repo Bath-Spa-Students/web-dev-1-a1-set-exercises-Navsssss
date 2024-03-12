@@ -1,0 +1,108 @@
+body{
+    background-color: #ffffff;
+    background-image:  radial-gradient( rgb(255, 0, 0), rgb(42, 1, 1))
+  }
+  h1{ 
+    font-size: 55px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-attachment: fixed;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    border-spacing: 5px;
+    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient(to right, rgb(191, 0, 0), rgb(255, 109, 109))
+  }
+h2{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    background-image: linear-gradient(to right, red, rgb(255, 145, 0));
+    padding: 5px;
+    text-align: center;
+    font-size: xx-large;
+  }
+ul{
+    list-style-type: none;
+    margin: 3;
+    padding: 0;
+    overflow: hidden;
+  background-color: #333;
+}
+
+li {
+    float: left;
+  }
+  
+  li a {
+    background-color: #080808;
+    display: block;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    padding: 14px 100px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #9a4141;
+  }
+  h3{
+    text-align: left;
+    color: #000000;
+    background-color: rgb(255, 255, 0);
+    font-size: xx-large;
+    border: #ffffff;
+  }
+p1{
+    color: #000000;
+    background-color: burlywood;
+    font-size: larger;
+    padding:2px;
+    float: left;
+    margin: 2px; 
+    }
+p2{color: #000000;
+    background-color: burlywood;
+    font-size: larger; 
+    padding: 2px;
+    float: left;
+    margin: 2px;
+}
+p3{
+    color: #000000;
+    background-color: burlywood;
+    padding: 2px;
+    font-size: larger;
+    float: left;
+    margin: 2px;
+}
+h4{
+    text-align: left;
+    color: #000000;
+    background-color: rgb(255, 81, 0);
+    font-size: xx-large;
+    border: #ffffff;
+}
+p4{
+    color: #000000;
+    background-color: rgb(255, 94, 0);
+    font-size: larger;
+    float: left;
+    padding: 2px;
+    margin: 3px;
+}
+p5{
+    color: #000000;
+    background-color: rgb(255, 94, 0);
+    font-size: larger;
+    float: left;
+    padding: 2px;
+    margin: 3px;
+}
+p6{
+    color: #000000;
+    background-color: rgb(255, 94, 0);
+    font-size: larger;
+    float: left;
+    padding: 2px;
+    margin: 3px;
+}
